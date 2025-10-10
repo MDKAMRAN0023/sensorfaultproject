@@ -4,8 +4,8 @@ import os
 
 
 AWS_S3_BUCKET_NAME = "wafer_fault"
-MANGO_DATABASE_NAME = "pwskills"
-MANGO_COLLECTION_NAME = "waferfault"
+MONGO_DATABASE_NAME = "pwskills"
+MONGO_COLLECTION_NAME = "waferfault"
 
 
 TARGET_COLUMN = "quality"
